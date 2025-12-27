@@ -133,6 +133,16 @@ Predict the **outlet sales** of items based on multiple product and store-relate
 
 ---
 
+## 📉 Training & Validation Loss
+
+![Training and Validation Loss](images/Train_Validation_loss.png)
+
+
+## 📊 Actual vs Predicted Sales
+
+![Actual vs Predicted](images/Actual_pridected.png)
+
+
 ## 👩‍💻 Team Members
 - [Basmala ElKady](https://github.com/Basmala-ElKady)
 - [Menna Hossny](https://github.com/Mennatullah122)
