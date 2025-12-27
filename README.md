@@ -134,15 +134,15 @@ Predict the **outlet sales** of items based on multiple product and store-relate
 ---
 
 ## 👩‍💻 Team Members
-- Basmala Elkady
-- Hany Ziad
-- Hoda Mahmoud
-- Jana Mamdouh
-- Mennatullah Mohamed
-- Juwariya Mohamed
-
+- [Basmala ElKady](https://github.com/Basmala-ElKady)
+- [Menna Hossny](https://github.com/Mennatullah122)
+- [Hoda Mahmoud](https://github.com/HodaMahmoud-2005)
+- [Jana Hegazy](https://github.com/janahegazy)
+- [Jowairya Kassem](https://github.com/jowairyakassem)
+- [Hany Ziad](https://github.com/hanyzead123)
+- [jowairyakassem](https://github.com/jowairyakassem)
 ---
 
 ## 📚 References
 - Kaggle: Big Mart Sales Prediction Dataset
-نسخ الكود
+
