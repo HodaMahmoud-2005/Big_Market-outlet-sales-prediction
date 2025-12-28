@@ -150,7 +150,7 @@ Predict the **outlet sales** of items based on multiple product and store-relate
 - [Jana Hegazy](https://github.com/janahegazy)
 - [Jowairya Kassem](https://github.com/jowairyakassem)
 - [Hany Ziad](https://github.com/hanyzead123)
-- [jowairyakassem](https://github.com/jowairyakassem)
+
 ---
 
 ## 📚 References
